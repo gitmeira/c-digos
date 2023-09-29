@@ -12,7 +12,7 @@ durante o periodo de aprendizado e criação do projeto padaria.
 
 <li>Programação Java</li>
 <li>Banco de dados relacional</li>
-<li>Java Spring Boot</li>
+
 
 
 ### Como usar 
