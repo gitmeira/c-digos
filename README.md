@@ -19,7 +19,7 @@ durante o periodo de aprendizado e criação do projeto padaria.
  <!--ts-->
 * [Pré-requisitos](#pre-requisitos)
   
-  - Necessário Instalação de uma IDE(recomendado IntelliJ)  
+  - Necessário Instalação de uma IDE 
   - Necessário Instalação do Postgresql para execução das ddl's
 
 
