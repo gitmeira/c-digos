@@ -17,7 +17,7 @@ durante o periodo de aprendizado e criação do projeto padaria.
 
 ### Como usar 
  <!--ts-->
-* [Pré-Requisitos](#pre-requisitos)
+* [Pré-requisitos](#pre-requisitos)
   
   - Necessário Instalação de uma IDE(recomendado IntelliJ)  
   - Necessário Instalação do Postgresql para execução das ddl's
