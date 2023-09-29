@@ -1,0 +1,5 @@
+nome#preco#quantidade
+abacate#5.00#3
+melao#2.99#4
+pomada#4.99#4
+alface#1.99#16
