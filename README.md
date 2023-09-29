@@ -31,7 +31,5 @@ durante o periodo de aprendizado e criação do projeto padaria.
 ### Tecnologias utilizadas
 
 <li>Java</li>
-<li>Spring Boot</li>
-<li>JPA / Hibernate</li>
 <li>Banco de dados relacional(PostgreSQL)</li>
-<li>Maven</li>
+
