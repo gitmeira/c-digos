@@ -10,10 +10,6 @@ O git treinamento é onde estão postados os códigos de desenvolvimento em java
 durante o periodo de aprendizado da linguagem.
 
 
-<li>Programação Java</li>
-
-
-
 ### Como usar 
  <!--ts-->
 * [Pré-requisitos](#pre-requisitos)
