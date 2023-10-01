@@ -19,12 +19,12 @@ durante o periodo de aprendizado da linguagem.
 * [Pré-requisitos](#pre-requisitos)
   
   - Necessário Instalação Java
-  
-
+  - Para os códigos onde é realizado a leitura de um arquivo .csv é necessário o download do arquivo e mapeamento do diretório no código conforme instruções no readme de cada código.
+   
 
  * [Recomendações](#recomendações)
    
-    Após instalação dos pré-requisitos , por se tratarem de códigos , basta realizar a execução .
+    Após instalação e mapeamento dos pré-requisitos , basta realizar a execução .
 
 
 ### Tecnologias utilizadas
