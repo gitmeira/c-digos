@@ -6,7 +6,7 @@ Códigos (linguagem java)
 
 ### Treinamento
 
-O git treinamento é onde estão postados os códigos de desenvolvimento em java que foram concluídas
+O git treinamento é onde estão postados os códigos de desenvolvimento em java que foram concluídos
 durante o periodo de aprendizado da linguagem.
 
 
