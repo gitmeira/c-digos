@@ -1,0 +1,6 @@
+id#nome#salario#quantidadeFilhos#quantidadeHoraExtra#email
+1#Abelardo#3000.0#0#10.0#abelardo@email.com
+2#Zenaide#5000.0#1#8.0#zeze@email.com
+3#Belardo#2000.0#2#0.0#belardo@email.com
+4#Marco#1200.0#0#50.0#marco@email.com
+5#Cicero#4200.0#1#6.0#cicero@email.com
